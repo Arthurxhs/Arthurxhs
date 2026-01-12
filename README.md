@@ -1,4 +1,4 @@
-![Banner](img/foto1.png)
+![Banner](img/banner.jfif)
 # Hi everyone, i am student autodidact living in colombia, my goal is to be a software engineer
 
 # languajes and tools 
