@@ -1,4 +1,4 @@
-![kirby image]()
+![kirby image](https://pin.it/1vQzfK9tA)
 
 # Hi everyone, i am student autodidact living in colombia, my goal is to be a software engineer
 
@@ -14,7 +14,11 @@
 * NPM
 * Git
 * Bootstrap Studio
+* Figma
+* Java
+* SpringBootm
 
+<!--asi se hace los comentarios en un readme.dm-->
 <!--
 **Arthurxhs/Arthurxhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
