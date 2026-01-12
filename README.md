@@ -1,5 +1,4 @@
-![kirby image](https://i.pinimg.com/736x/90/5d/ad/905dad798a71bbfae04c4c9a93cb374a.jpg)
-
+![Banner](img/foto1.png)
 # Hi everyone, i am student autodidact living in colombia, my goal is to be a software engineer
 
 # languajes and tools 
