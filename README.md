@@ -5,9 +5,9 @@
 </h1>
 
 # languajes and tools 
-<table>
+<table width="100%">
 <tr>
-  <td>
+  <td width="50%">
     <li>JavaScript</li>
     <li><HTML5/li>
     <li>CSS</li>
@@ -18,7 +18,7 @@
   </td>
 </tr>
 <tr>
-  <td>
+  <td width="50%">
     <li>React Native</li>
     <li>Node.js</li>
     <li>Express</li>
