@@ -1,4 +1,5 @@
-![Banner](img/banner.jfif)
+<!--![Banner](img/banner.jfif)-->
+<img src="img/banner.jfif" width="200" height="auto" alt="github profile banner">
 # Hi everyone, i am student autodidact living in colombia, my goal is to be a software engineer
 
 # languajes and tools 
