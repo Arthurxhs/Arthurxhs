@@ -1,25 +1,35 @@
 <!--![Banner](img/banner.jfif)-->
 <img src="img/banner.jfif" width="auto" height="auto" alt="github profile banner">
 <h1>
-  Hi everyone, i am student autodidact living in colombia, my goal is to be a software engineer
+  Hi everyone, i am student autodidact, my goal is to be a free human being
 </h1>
 
 # languajes and tools 
-* JavaScript
-* HTML5
-* CSS
-* SASS
-* React
-* React Native
-* Node.js
-* Express
-* NPM
-* Git
-* Bootstrap Studio
-* Figma
-* Java
-* SpringBootm
-
+<table>
+<tr>
+  <td>
+    <li>JavaScript</li>
+    <li><HTML5/li>
+    <li>CSS</li>
+    <li>SASS</li>
+    <li>React</li>
+    <li>Bootstrap Studio</li>
+    <li>SpringBoot</li>
+  </td>
+</tr>
+<tr>
+  <td>
+    <li>React Native</li>
+    <li>Node.js</li>
+    <li>Express</li>
+    <li>NPM</li>
+    <li>Git</li>
+    <li>Figma</li>
+    <li>Java</li>
+  </td>
+</tr>
+</table>
+      
 <!--asi se hace los comentarios en un readme.dm-->
 <!--
 **Arthurxhs/Arthurxhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
