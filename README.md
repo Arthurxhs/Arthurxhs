@@ -1,6 +1,8 @@
 <!--![Banner](img/banner.jfif)-->
 <img src="img/banner.jfif" width="auto" height="auto" alt="github profile banner">
-# Hi everyone, i am student autodidact living in colombia, my goal is to be a software engineer
+<h1>
+  Hi everyone, i am student autodidact living in colombia, my goal is to be a software engineer
+</h1>
 
 # languajes and tools 
 * JavaScript
