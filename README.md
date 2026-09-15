@@ -1,7 +1,8 @@
 <!--![Banner](img/banner.jfif)-->
 <img src="img/banner.jfif" width="auto" height="auto" alt="github profile banner">
 <h1>
-  Hi everyone, i am student autodidact, my goal is to be a free human being
+  Hi everyone, i'm student autodidact, my goal is to be a free human being, i'm currently learning nest.js and too practicing my math abilities for make simulators, i'm looking a form of preservation for my life.
+I like too much basic sciences and a hobbie is reading light novels
 </h1>
 
 # languajes and tools 
@@ -9,12 +10,9 @@
 <tr>
   <td width="50%">
     <li>JavaScript</li>
-    <li><HTML5/li>
-    <li>CSS</li>
     <li>SASS</li>
     <li>React</li>
-    <li>Bootstrap Studio</li>
-    <li>SpringBoot</li>
+    <li>Figma</li>
   </td>
 </tr>
 <tr>
@@ -24,8 +22,6 @@
     <li>Express</li>
     <li>NPM</li>
     <li>Git</li>
-    <li>Figma</li>
-    <li>Java</li>
   </td>
 </tr>
 </table>
