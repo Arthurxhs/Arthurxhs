@@ -1,9 +1,15 @@
 <!--![Banner](img/banner.jfif)-->
-<img src="img/banner.jfif" width="auto" height="auto" alt="github profile banner">
+<table valign="top">
+    <tr>
 <h1>
   Hi everyone, i'm student autodidact, my goal is to be a free human being, i'm currently learning nest.js and too practicing my math abilities for make simulators, i'm looking a form of preservation for my life.
-I like too much basic sciences and a hobbie is reading light novels
+I like too much basic sciences and one of my hobbie is reading light novels
 </h1>
+</tr>
+<tr>
+<img src="img/banner.jfif" width="auto" height="auto" alt="github profile banner">
+</tr>
+</table>
 
 # languajes and tools 
 <table width="100%">
